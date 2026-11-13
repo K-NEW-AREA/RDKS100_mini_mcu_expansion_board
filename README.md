@@ -4,7 +4,8 @@
 ## 一、简介
  
 mcp25_8TU 是一款适配 D-Robotics RDK S100 开发板 100-Pin MCU 扩展接口（J23）的四通道高速 CAN FD 收发扩展板，基于 4 颗 Microchip MCP2542FD 收发器（最高 8 Mbps），将 RDK S100 MCU 域的 CAN5~CAN8 接口引出到 4 组 2.54mm 螺钉端子，每通道独立配备 ESD 防护，即插即用。
- 
+
+立创开源广场链接：https://oshwhub.com/1888848995a/project_tfmruivo?jlc_vid=EVkPBFNSRVNXUFEARQdYXlxWRFRWVVQCR1IIAVxURQMxVlNfQ1RbVldST1ZZUDtWKAkaExQVTU5BCBcOAAkbBUoFGAw%3D
 ---
  
 ## 二、项目背景
