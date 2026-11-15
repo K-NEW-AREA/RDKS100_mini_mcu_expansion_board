@@ -117,3 +117,12 @@ MCU 引出的 CAN 信号为数字电平（TXD/RXD），必须外接物理层收�
 - MCP2542 待机模式下仅监听唤醒帧，正常通信需拉低 STB。
 - v2 版本收发器为 TDFN 封装且含底部散热焊盘，手工焊接建议热风+回流；批量可 SMT 贴片。
  
+
+
+## 社区收录与共创
+
+本项目已接入 [K-NEW AREA 公共信息中心](https://github.com/K-NEW-AREA/community#硬件)。[社区资源说明](https://github.com/K-NEW-AREA/community/blob/main/resources/rdk-s100-can-fd-board.md)记录文件入口、核验版本、已公开内容和待补充的复用信息。
+
+电路、制造及使用问题请在[本仓库 Issues](https://github.com/K-NEW-AREA/RDKS100_mini_mcu_expansion_board/issues)跟进；跨项目共创与复用成果可通过[社区入口](https://github.com/K-NEW-AREA/community/issues/new/choose)提交。
+
+欢迎补充工程导入说明、制造资料、实测环境与原始日志。通信测试、失败记录和参数对比也可作为实验数据贡献，关联本项目硬件/固件版本。社区目录收录与独立硬件实测分别记录。
